@@ -60,7 +60,7 @@ if(isset($_POST['submit'])){
     <div class="wrapper">
         <section class="form sign up">
             <center><header> Login</header></center>
-            <form class="header"  method="post">
+            <form class="header"  method="post" action="login_inc.php">
                 
                    
                         <div class="field input">
